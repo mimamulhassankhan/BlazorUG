@@ -79,6 +79,13 @@ using BlazorUG.Shared;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 11 "F:\Website Works\Blazor\BlazorUG\_Imports.razor"
+using BlazorUG.Data.Modals;
+
+#line default
+#line hidden
+#nullable disable
     [Microsoft.AspNetCore.Components.RouteAttribute("/fetchdata")]
     public partial class FetchData : Microsoft.AspNetCore.Components.ComponentBase
     {

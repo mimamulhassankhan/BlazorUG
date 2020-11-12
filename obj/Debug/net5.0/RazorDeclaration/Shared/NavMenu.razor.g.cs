@@ -82,6 +82,13 @@ using BlazorUG.Shared;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 11 "F:\Website Works\Blazor\BlazorUG\_Imports.razor"
+using BlazorUG.Data.Modals;
+
+#line default
+#line hidden
+#nullable disable
     public partial class NavMenu : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
@@ -90,7 +97,7 @@ using BlazorUG.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 28 "F:\Website Works\Blazor\BlazorUG\Shared\NavMenu.razor"
+#line 33 "F:\Website Works\Blazor\BlazorUG\Shared\NavMenu.razor"
        
     private bool collapseNavMenu = true;
 

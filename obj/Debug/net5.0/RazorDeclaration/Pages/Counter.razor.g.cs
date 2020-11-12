@@ -82,6 +82,13 @@ using BlazorUG.Shared;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 11 "F:\Website Works\Blazor\BlazorUG\_Imports.razor"
+using BlazorUG.Data.Modals;
+
+#line default
+#line hidden
+#nullable disable
     [Microsoft.AspNetCore.Components.RouteAttribute("/counter")]
     public partial class Counter : Microsoft.AspNetCore.Components.ComponentBase
     {

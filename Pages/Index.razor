@@ -1,7 +1,11 @@
 ﻿@page "/"
+@using BlazorUG.Pages.Components
 
-<h1>Hello, world!</h1>
-
-Welcome to your new app.
-
-<SurveyPrompt Title="How is Blazor working for you?" />
+<div class="row">
+    <div class="col-md-6">
+        <ToDo headerName="Daily Task"></ToDo>
+    </div>
+    <div class="col-md-6">
+        <ToDo headerName="Monthly Task"></ToDo>
+    </div>
+</div>

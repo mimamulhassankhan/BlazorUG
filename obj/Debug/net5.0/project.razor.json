@@ -140,6 +140,39 @@
         }
       },
       {
+        "HashCode": 1486067510,
+        "Kind": "Components.Component",
+        "Name": "BlazorUG.Pages.Components.ToDo",
+        "AssemblyName": "BlazorUG",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ToDo"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorUG.Pages.Components.ToDo"
+        }
+      },
+      {
+        "HashCode": -337483479,
+        "Kind": "Components.Component",
+        "Name": "BlazorUG.Pages.Components.ToDo",
+        "AssemblyName": "BlazorUG",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorUG.Pages.Components.ToDo"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorUG.Pages.Components.ToDo",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -1642095165,
         "Kind": "Components.Component",
         "Name": "BlazorUG.Shared.SurveyPrompt",
@@ -12987,6 +13020,11 @@
     {
       "FilePath": "f:\\Website Works\\Blazor\\BlazorUG\\Shared\\MainLayout.razor",
       "TargetPath": "Shared\\MainLayout.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "f:\\Website Works\\Blazor\\BlazorUG\\Pages\\Components\\ToDo.razor",
+      "TargetPath": "Pages\\Components\\ToDo.razor",
       "FileKind": "component"
     },
     {

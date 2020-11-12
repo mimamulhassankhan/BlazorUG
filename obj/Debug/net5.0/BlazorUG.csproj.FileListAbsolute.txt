@@ -630,3 +630,5 @@ F:\Website Works\Blazor\BlazorUG\obj\Debug\net5.0\BlazorUG.csproj.CopyComplete
 F:\Website Works\Blazor\BlazorUG\obj\Debug\net5.0\BlazorUG.dll
 F:\Website Works\Blazor\BlazorUG\obj\Debug\net5.0\ref\BlazorUG.dll
 F:\Website Works\Blazor\BlazorUG\obj\Debug\net5.0\BlazorUG.pdb
+F:\Website Works\Blazor\BlazorUG\obj\Debug\net5.0\RazorDeclaration\Pages\Components\ToDo.razor.g.cs
+F:\Website Works\Blazor\BlazorUG\obj\Debug\net5.0\Razor\Pages\Components\ToDo.razor.g.cs

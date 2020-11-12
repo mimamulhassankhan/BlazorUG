@@ -79,6 +79,13 @@ using BlazorUG.Shared;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 11 "F:\Website Works\Blazor\BlazorUG\_Imports.razor"
+using BlazorUG.Data.Modals;
+
+#line default
+#line hidden
+#nullable disable
     public partial class MainLayout : LayoutComponentBase
     {
         #pragma warning disable 1998
